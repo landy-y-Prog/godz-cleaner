@@ -1,0 +1,35 @@
+GODZ CLEANER — third-party notices
+
+Application author: GODZ (landy-y-Prog)
+https://github.com/landy-y-Prog/godz-cleaner
+Third-party components retain their own licenses and copyright notices.
+
+Qt for Python / PySide6 / Shiboken6 6.12.0 and Qt 6.12.0
+Copyright The Qt Company Ltd. and other contributors.
+Used under LGPL-3.0. Qt DLLs are dynamically linked and shipped separately
+in _internal/PySide6. Users may replace those libraries with compatible
+modified versions and debug those modifications.
+License texts: assets/licenses/LGPL-3.0.txt and GPL-3.0.txt.
+Sources: https://code.qt.io/cgit/pyside/pyside-setup.git/
+         https://code.qt.io/cgit/qt/qtbase.git/
+Qt source packages: https://download.qt.io/
+Third-party notices: https://doc.qt.io/qt-6/licenses-used-in-qt.html
+
+psutil 7.2.2 — BSD 3-Clause; assets/licenses/psutil.txt
+https://github.com/giampaolo/psutil
+
+Send2Trash 2.1.0 — BSD 3-Clause; assets/licenses/Send2Trash.txt
+https://github.com/arsenetar/send2trash
+
+Python 3.12 — PSF license; assets/licenses/Python.txt
+https://www.python.org/
+
+PyInstaller 6.22.3 bootloader — GPL with bootloader exception.
+assets/licenses/PyInstaller.txt; https://pyinstaller.org/
+
+Inter font — SIL Open Font License 1.1.
+Copyright Rasmus Andersson and contributors.
+assets/fonts/OFL.txt; https://rsms.me/inter/
+
+In the portable package, assets are located under _internal/assets.
+
