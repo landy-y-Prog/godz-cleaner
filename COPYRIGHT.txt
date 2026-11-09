@@ -1,0 +1,17 @@
+GODZ CLEANER
+Copyright (c) 2026 GODZ (landy-y-Prog). All rights reserved.
+
+Author: GODZ
+Official profile: https://github.com/landy-y-Prog
+Official releases: https://github.com/landy-y-Prog/godz-cleaner/releases
+
+GODZ CLEANER application source code is not published under an open-source
+license. This distribution does not grant rights to rebrand the application
+or claim authorship of it. Contact the author for permission to redistribute
+or modify the proprietary application code and branding.
+
+Third-party components retain their own licenses and copyright notices.
+Nothing in this notice limits rights granted by those licenses, including
+the right to replace LGPL-covered Qt libraries and to debug modifications
+to those libraries. See THIRD_PARTY_NOTICES.txt and the bundled licenses.
+
